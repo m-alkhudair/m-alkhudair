@@ -8,7 +8,7 @@ I'm an aspiring web developer/cat rescuer from Saudi Arabia. I'm always looking 
 - HTML & CSS
 - JavaScript
 
-#### Interested on learning:
+#### Interested in learning:
 
 - Python
 - PHP
